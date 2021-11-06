@@ -1,5 +1,5 @@
-# rust-code-reading-club
-Rust 源码阅读俱乐部
+# Rust 源码阅读俱乐部 (Rust Code Reading Club)
+
 
 ## 介绍
 
