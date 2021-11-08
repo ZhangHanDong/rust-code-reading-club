@@ -20,3 +20,7 @@
 ## 活动
 
 - [2021-11-7: Rust 编译器源码阅读｜名称解析](./events/2021-11-7.md)
+
+## 如何加入飞书群
+
+[如何加入飞书群？](https://github.com/ZhangHanDong/rust-code-reading-club/issues/1)
